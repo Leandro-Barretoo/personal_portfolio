@@ -68,6 +68,8 @@ body {
 }
 
 .about-me {
+    display: none;
+    height: 100vh;
     background-color: #b2b09b;
 }
 
