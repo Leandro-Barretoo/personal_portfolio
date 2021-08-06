@@ -97,3 +97,14 @@ body {
     border: 1px solid #254441;
     background-color: #254441;
 }
+
+.main-title {
+    margin-left: 2rem;
+    color: #254441;
+}
+
+.important {
+    color: #ef3054;
+    font-size: 2rem;
+    text-shadow: 2px 2px #43aa8b;
+}
