@@ -268,4 +268,55 @@ body {
     }
 }
 
-/* End horizontal bar chart */
+.pie-container {
+    display: grid;
+    text-align: center;
+    margin: 35px 10px;
+}
+
+.pie {
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: conic-gradient(#ef3054 25%, #e05066 0, #e05066 50%, #d9606f 0, #d9606f 75%, #d17078 0);
+}
+
+.topic-container {
+    display: flex;
+    align-items: center;
+}
+
+.topic {
+    padding: 15px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #254441;
+}
+
+.square1,
+.list-one {
+    color: #d17078;
+}
+
+.square2,
+.list-two {
+    color: #d9606f;
+}
+
+.square3,
+.list-three {
+    color: #e05066;
+}
+
+.square4,
+.list-four {
+    color: #ef3054;
+}
+
+.topic-list {
+    list-style: none;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 0;
+}
