@@ -1,5 +1,4 @@
 import './style.css';
-import './style.scss';
 
 function helloPage() {
     const toShow = document.querySelector('.about-me');

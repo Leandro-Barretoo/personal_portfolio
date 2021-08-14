@@ -320,3 +320,18 @@ body {
     font-weight: 600;
     padding: 0;
 }
+
+.cv {
+    padding: 15px;
+}
+
+.link-text {
+    text-align: center;
+    font-weight: 600;
+}
+
+.link {
+    text-align: center;
+    font-weight: 600;
+    color: #ef3054;
+}
